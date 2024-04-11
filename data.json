@@ -1,0 +1,7 @@
+{
+    "resources": [
+      { "id": "1", "name": "Resource 1" },
+      { "id": "2", "name": "Resource 2" }
+    ]
+}
+  
